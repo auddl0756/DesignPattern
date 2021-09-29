@@ -7,3 +7,7 @@
 
 ## part 2
 3. template method : 틀을 정해놓고, 하위 클래스에서 구체적으로 처리하기
+4. factory method : 인스턴스 생성하는 공장을 template method 패턴으로 작성
+
+## part 3
+5. singleton : 인스턴스를 1개로 제한하고 1개임을 보장받고 싶을 때
