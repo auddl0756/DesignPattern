@@ -20,3 +20,5 @@
 
 ## part 5
 11. composite : 재귀/ 파일,디렉토리 / 그릇과 내용물 동일시?? 
+12. decorator : 러시아 인형 같은 구조.<br>
+    new BufferedReader(new InputStreamReader(System.in))
