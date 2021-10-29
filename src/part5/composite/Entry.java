@@ -9,7 +9,6 @@ public abstract class Entry {
     }
 
     public void printList(){
-        //printList(" ");
         printList("",0);
     }
 
